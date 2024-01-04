@@ -1,0 +1,67 @@
+Spaceport America Cup 2022-23
+
+
+SAC23 agenda
+https://docs.google.com/document/d/15mYGgWlfPXuJ77rXdnlds83LZ8FYtGFxOv0VOO5PunE/edit#heading=h.9xfkxdn3fhzx
+
+CUHAR Avionics Flight Computer Development Manual SAC2023
+https://docs.google.com/document/d/1LIF6laXUcnxEueaeTdgvhucKOCAjPawIiunn34cWw7s/edit#
+
+CUHAR PCB Design Guide
+https://docs.google.com/document/d/1A4yw9IFbSB11U4KcfgF6wmt822fD_iMTVV0MfxvGFSY/edit#heading=h.xmpm50dk7iu2
+
+
+
+Spaceport America Cup 2023-24
+
+
+Avinoics Attendance
+https://docs.google.com/spreadsheets/d/1b66ivfXisjR-n6uZ7VI2v_zKzIjDhhPts4JYheraa2g/edit?usp=sharing
+
+Avionics 2023-24
+https://docs.google.com/document/d/1XujcqfKkxVZNUBt6T_xd1pKf7RkvWlabmOndzifwLqQ/edit
+
+Book
+https://drive.google.com/drive/folders/1YIpHug7BFl_hHKdkaxoXXf3R9y309jb5?usp=share_link
+
+
+
+CURE - Resource
+
+
+FSAE Rules 2023 V2
+https://www.fsaeonline.com/cdsweb/gen/DownloadDocument.aspx?DocumentID=96d652ca-a506-444e-917a-dbf695321ab350
+
+Safety system chart
+https://miro.com/welcomeonboard/aHlsYXFsc2hZdk1JVlZENVFOdkNKYkhnbFJmYW1ESzlFMXNJZ1BjRVFhNE1hNEljWkJFc3V5SjN4YzBqd0FGbXwzMDc0NDU3MzYyODIxNDQzMTI3fDI=?share_link_id=7709198005
+
+Progress tracker(CUR-E)
+https://trello.com/invite/workspace68219433/ATTI71da3bc17f7af6a880e951896b2a51a1FFEBC4CA
+
+Progress tracker(Safety)
+https://trello.com/b/xX4212cv/safety
+
+PCB Design 101
+https://docs.google.com/document/d/1goNigpbo9St-AfbiBsrYsNGmuFV5hwIFDqk-ktcHFf8/edit?usp=sharing
+
+
+
+CUHAR - Exsrt
+
+
+Viggo Drive
+https://drive.google.com/drive/folders/1PyOCXwlMfFoYRrK1b0w18aN4-WQ5Rb8t?usp=drive_link
+
+Exsrt Research
+https://drive.google.com/drive/folders/1ho-eb-BIo4TYTQtuGE7p0yV2Z0WNCM3U
+
+Hybrid Moor Calculation Step
+https://docs.google.com/document/d/1D9n3OFcDIuYbKSJYWQCBxRAXfZjb_ivfFtaWm9GcO9c/edit
+
+
+
+
+
+
+
+
